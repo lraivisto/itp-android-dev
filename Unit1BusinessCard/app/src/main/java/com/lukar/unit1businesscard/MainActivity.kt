@@ -85,9 +85,9 @@ fun ProfileSection() {
 
 @Composable
 fun ContactSection() {
-    ContactRow(Icons.Default.Phone, "+358400318452")
-    ContactRow(Icons.Default.Share, "@os.luxi")
-    ContactRow(Icons.Default.Email, "raiv0001@hz.nl")
+    ContactRow(Icons.Default.Phone, "+358x")
+    ContactRow(Icons.Default.Share, "@x")
+    ContactRow(Icons.Default.Email, "x@hz.nl")
 }
 
 @Composable
